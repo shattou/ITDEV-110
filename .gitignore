@@ -1,0 +1,12 @@
+# Java build outputs
+*.class
+*.jar
+**/target/
+**/build/
+**/out/
+# Local IDE and macOS files
+.DS_Store
+.idea/
+*.iml
+.metadata/
+nbproject/private/
